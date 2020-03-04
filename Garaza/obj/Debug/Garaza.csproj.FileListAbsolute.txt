@@ -1,0 +1,15 @@
+C:\Users\Mr Roberto\Desktop\Garaza\Garaza\Garaza\bin\Debug\Garaza.exe.config
+C:\Users\Mr Roberto\Desktop\Garaza\Garaza\Garaza\bin\Debug\Garaza.exe
+C:\Users\Mr Roberto\Desktop\Garaza\Garaza\Garaza\bin\Debug\Garaza.pdb
+C:\Users\Mr Roberto\Desktop\Garaza\Garaza\Garaza\obj\Debug\Garaza.csprojAssemblyReference.cache
+C:\Users\Mr Roberto\Desktop\Garaza\Garaza\Garaza\obj\Debug\Garaza.Form1.resources
+C:\Users\Mr Roberto\Desktop\Garaza\Garaza\Garaza\obj\Debug\Garaza.Properties.Resources.resources
+C:\Users\Mr Roberto\Desktop\Garaza\Garaza\Garaza\obj\Debug\Garaza.csproj.GenerateResource.cache
+C:\Users\Mr Roberto\Desktop\Garaza\Garaza\Garaza\obj\Debug\Garaza.csproj.CoreCompileInputs.cache
+C:\Users\Mr Roberto\Desktop\Garaza\Garaza\Garaza\obj\Debug\Garaza.exe
+C:\Users\Mr Roberto\Desktop\Garaza\Garaza\Garaza\obj\Debug\Garaza.pdb
+C:\Users\Mr Roberto\Desktop\Garaza\Garaza\Garaza\obj\Debug\Garaza.Form2.resources
+C:\Users\Mr Roberto\Desktop\Garaza\Garaza\Garaza\obj\Debug\Garaza.Rules_Kanasta.resources
+C:\Users\Mr Roberto\Desktop\Garaza\Garaza\Garaza\obj\Debug\Garaza.LORA.resources
+C:\Users\Mr Roberto\Desktop\Garaza\Garaza\Garaza\obj\Debug\Garaza.LORA_Played_Games.resources
+C:\Users\Mr Roberto\Desktop\Garaza\Garaza\Garaza\obj\Debug\Garaza.LORA_Rules.resources
