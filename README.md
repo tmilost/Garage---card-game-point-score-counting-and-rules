@@ -1,4 +1,4 @@
-# The-Gaming-Garage---card-game-point-score-counting-and-rules
+# The Gaming Garage
 
 #Games
 
